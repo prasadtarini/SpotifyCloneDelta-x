@@ -1,0 +1,88 @@
+.main{
+    width: 90%;
+}
+.head1{
+    color: #4B5D67;
+    padding: 10px;
+    font-size: 30px;
+
+}
+.butt{
+    background-color: #4B5D67;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 60%;
+    color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 0px;
+    padding: 5px;
+}
+.tab{
+    margin-left: 15%;
+    color: green;
+}
+.imgs{
+    height: 100px;
+    width: 80px;
+}
+.buttt{
+    width: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 85%;
+}
+.checked {
+    color: orange;
+  }
+.head2{
+    color: #4B5D67;
+    font-size: 25px;
+    margin: 20px;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.cont1{
+    margin-left: 5%;
+    padding: 10px;
+}
+.inp1{
+    margin-left: 10%;
+    width: 300px;
+}
+.inp2{
+    margin-left: 8%;
+    width: 300px;
+}
+.artist{
+    margin-left: 14%;
+    width: 300px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.butt3{
+    margin-left: 5%;
+    height: 30px;
+}
+.butt4{
+    height: 30px;
+    margin-left: 10%;
+    margin-top: 100px;
+    width: 100px;
+    color: #4B5D67;
+    background-color: white;
+}
+.butt5{
+    height: 30px;
+    margin-left: 1%;
+    margin-top: 100px;
+    width: 100px;
+    color: white;
+    background-color: #4B5D67;
+}
+.inp4{
+    margin-left: 10%;
+    width: 200px;
+}
